@@ -1,5 +1,7 @@
 # Logo-Favicon
 
+![Logo Release V1](/images/Logo Release V1.png)
+
 This is the repo for my logo for my digital portfolio
 
 Though this is already licensed under the CC-BY-SA-4.0 License, there are some additional restrictions, and those are the following:
