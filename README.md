@@ -1,6 +1,6 @@
 # Logo-Favicon
 
-![Logo Release V1](/images/Logo Release V1.png)
+![Logo Release V1](Logo Release V1.png)
 
 This is the repo for my logo for my digital portfolio
 
