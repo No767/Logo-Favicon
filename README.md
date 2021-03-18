@@ -1,4 +1,4 @@
-# Logo-Favicon
+# <a href="https://ibb.co/dgjvzm9"><img src="https://i.ibb.co/dgjvzm9/Logo-Release-V1.png" alt="Logo-Release-V1" border="0"></a> Logo-Favicon
 
 <a href="https://ibb.co/dgjvzm9"><img src="https://i.ibb.co/dgjvzm9/Logo-Release-V1.png" alt="Logo-Release-V1" border="0"></a>
 
