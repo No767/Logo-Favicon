@@ -1,0 +1,5 @@
+Stuff that i may or may not need to work on
+
+- Resign Color Scheme [Low Prio]
+- Edit sizing [Low Prio]
+- Possible additions to the logo (never going to happen)
