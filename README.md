@@ -10,3 +10,6 @@ Though this is already licensed under the CC-BY-SA-4.0 License, there are some a
 - Edit the logo in any shape or form. That includes resizing the logo, adding effects, and others
 
 These are all in the license as well
+
+
+THIS IS INTENDED TO BE USED FOR EDUCATION ONLY
