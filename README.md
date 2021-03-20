@@ -3,7 +3,7 @@
 <a href="https://ibb.co/dgjvzm9"><img src="https://i.ibb.co/dgjvzm9/Logo-Release-V1.png" alt="Logo-Release-V1" border="0"></a> 
 This is the repo for my logo for my digital portfolio
 
-Though this is already licensed under the CC-BY-SA-4.0 License, there are some additional restrictions, and those are the following:
+Though this is already licensed under the CC-BY-NC-SA-4.0 License, there are some additional restrictions, and those are the following:
 
 - You may not alter the image in any way, shape or form
 - Claim this as your own and therefore use it under your claim
