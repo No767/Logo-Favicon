@@ -3,6 +3,6 @@
 <a href="https://ibb.co/dgjvzm9"><img src="https://i.ibb.co/dgjvzm9/Logo-Release-V1.png" alt="Logo-Release-V1" border="0"></a> 
 This is the repo for my logo for my digital portfolio
 
-License: CC-BY-NC-ND 4.o International Public License
+License: CC-BY-NC-ND 4.0 International Public License
 
 THIS IS INTENDED TO BE USED FOR EDUCATION ONLY
