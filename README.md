@@ -7,4 +7,4 @@ This is the repo for my logo for my digital portfolio
 
 License: CC-BY-NC-ND 4.0 International Public License
 
-THIS IS INTENDED TO BE USED FOR EDUCATION ONLY
+**THIS IS INTENDED TO BE USED FOR EDUCATION ONLY**
