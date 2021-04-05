@@ -1,3 +1,3 @@
 Stuff that i may or may not need to work on
 
--None so far
+- Change color scheme? [just a idea]
