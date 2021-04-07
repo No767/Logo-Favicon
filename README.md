@@ -10,7 +10,7 @@ Logo for Digital Portfolio
 
 # Info
 
-This is a repo designed to hold the logo for my digital portfolio. Feel free to suggestion something if you would like to. 
+This is a repo designed to hold the logo for my digital portfolio.
 
 # License 
 CC-BY-NC-ND 4.0 International Public License
