@@ -12,3 +12,6 @@ A desc on what feature you want to suggest?
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+**Additional info or suggestions**
+Any other info or suggestions that you want to make? 
