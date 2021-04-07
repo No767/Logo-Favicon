@@ -3,7 +3,7 @@
  <div align=center> 
   <a href="https://ibb.co/W0zqDq5"><img src="https://i.ibb.co/W0zqDq5/Logo-Release-V2.png" alt="Logo-Release-V2" border="0"></a>
    
-<img src="Logo-Release-V2.png" alt="This is just a test">
+<img src="Logo Release V2.png" alt="This is just a test">
 
 This is the repo for my logo for my digital portfolio 
 
