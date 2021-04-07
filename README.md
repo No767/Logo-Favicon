@@ -5,9 +5,13 @@
 
 Logo for Digital Portfolio
 
-<div align=left> 
-This is the repo for my logo for my digital portfolio 
 
-License: CC-BY-NC-ND 4.0 International Public License
+
+# Info
+<div align=left> 
+This is a repo designed to hold the logo for my digital portfolio. Feel free to suggestion something if you would like to. 
+
+# License 
+CC-BY-NC-ND 4.0 International Public License
 
 **THIS IS INTENDED TO BE USED FOR EDUCATION ONLY**
