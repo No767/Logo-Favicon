@@ -6,9 +6,10 @@
 Logo for Digital Portfolio
 
 
+<div align=left> 
 
 # Info
-<div align=left> 
+
 This is a repo designed to hold the logo for my digital portfolio. Feel free to suggestion something if you would like to. 
 
 # License 
