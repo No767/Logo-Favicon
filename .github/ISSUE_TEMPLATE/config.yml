@@ -1,0 +1,5 @@
+# This is for the issue templates. You can just use a blank issue template if you want to.
+blank_issues_enabled: true
+contact_links:
+  - name: Suggestions
+    about: Suggestions to the logo
