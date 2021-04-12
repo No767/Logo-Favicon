@@ -12,7 +12,9 @@
 
 This is a repo designed to hold the logo for my digital portfolio.
 
+<b>
+
 # License 
 CC-BY-NC-ND 4.0 International Public License
-
+<b>
 ### THIS IS INTENDED TO BE USED FOR EDUCATION ONLY
