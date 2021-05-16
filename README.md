@@ -1,4 +1,4 @@
-# Logo-Favicon  
+<img src="Logo Pre-Release V2.1 [Smaller Version].png"> # Logo-Favicon  
  <div align=center> 
   <img src="Logo Pre-Release V2.1.png">
 
