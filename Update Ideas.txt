@@ -1,4 +1,0 @@
-Stuff that i may or may not need to work on
-
-- Change color scheme? [just a idea]
-- add some new stuff to it [just a idea]
