@@ -13,5 +13,5 @@ See [Art Assets](https://github.com/No767/Logo-Favicon/blob/master/Art%20Assets.
  
 # License 
  
-CC-BY-NC-ND 4.0 International Public License
+This repo is licensed under the [CC-BY-NC-ND 4.0](https://github.com/No767/Logo-Favicon/blob/master/license.txt) License
 
